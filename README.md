@@ -18,7 +18,7 @@ A high-performance, user-friendly barcode and QR code scanner for Android, built
   - Material Design Components
 
 ## Screenshots
-![Main Screen](assets/ICV SCANNER.jpg)
+![Main Screen](assets/icvscanner.jpg)
 ![Barcode](assets/BARCODE 1.jpg)
 ![Barcode](assets/BARCODE 2.jpg)
 ![Barcode](assets/BARCODE 3.jpg)
