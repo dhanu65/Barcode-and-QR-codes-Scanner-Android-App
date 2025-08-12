@@ -16,3 +16,12 @@ A high-performance, user-friendly barcode and QR code scanner for Android, built
   - Google ML Kit (Barcode Scanning)
   - TensorFlow Lite (via ML Kit)
   - Material Design Components
+
+## Screenshots
+![Main Screen]()
+![Barcode]()
+![Barcode]()
+![Barcode]()
+![QR code]()
+![QR code]()
+![QR code]()
