@@ -23,5 +23,5 @@ A high-performance, user-friendly barcode and QR code scanner for Android, built
 ![Barcode](assets/BARCODE 2.jpg)
 ![Barcode](assets/BARCODE 3.jpg)
 ![QR code](assets/QR CODE 1.jpg)
-![QR code]()
+![QR code](assets/QR CODE 2.jpg)
 ![QR code]()
